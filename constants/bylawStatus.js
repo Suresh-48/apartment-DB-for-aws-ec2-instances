@@ -1,0 +1,4 @@
+const BY_LAW_STATUS_YES = "Yes";
+const BY_LAW_STATUS_NO = "No";
+
+export { BY_LAW_STATUS_YES, BY_LAW_STATUS_NO }
